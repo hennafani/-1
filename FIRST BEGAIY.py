@@ -60,7 +60,7 @@ elif bitchsName=='Logan':
     else:
       print('RIDI')
 else:
-    print(':/')
+    print('you are not born yet')
 
 
 
