@@ -23,13 +23,13 @@ print(bitchName)
 # 2.avrage score
 bitchsName = input('enter your kiri name'+'\n')
 if bitchsName=='Johnny':
-    print('your RIDEMAN = '+ str(round(sum(js)/len(js),2)))
+    print('your RIDEMAN = '+ str(round(sum(js)/len(js), 2)))
 elif bitchsName== 'Mia':
-    print('your RIDEMAN = '+ str(round(sum(mk)/len(mk),2)))
+    print('your RIDEMAN = '+ str(round(sum(mk)/len(mk), 2)))
 elif bitchsName == 'Alexis':
-    print('your RIDEMAN = ' + str(round(sum(at) / len(at), 2)))
+    print('your RIDEMAN = ' + str(round(sum(at)/len(at), 2)))
 elif bitchsName == 'Logan':
-    print('your RIDEMAN = ' + str(round(sum(lm) / len(lm), 2)))
+    print('your RIDEMAN = ' + str(round(sum(lm)/len(lm), 2)))
 else:
     print('you are a motherfucker')
 # 3. statuses
