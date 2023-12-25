@@ -2,6 +2,7 @@
 # 1.sort sizes of boobs
 boobs_lst=[85,85.5,8.05,0.75,8.5,75]
 # lst.sort()
+# print(boobs_lst)
 print(sorted(boobs_lst))
 # 2.sort sexy len
 hot_lst=['kiss','spank','facesitting','doggy style','sack','licking','69','BDSM','creampie','nipple pulling','orgasm','cumshot','+18']
