@@ -1,5 +1,5 @@
 # *sort order*
-# 1.sort nambers of boobs
+# 1.sort sizes of boobs
 boobs_lst=[85,85.5,8.05,0.75,8.5,75]
 # lst.sort()
 print(sorted(boobs_lst))
